@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently building [Custom_API](https://github.com/SpaceDandy15/Custom_API)  
+- 🔭 Currently building [Custom_API](https://github.com/maxnchief/Custom_API)  
 - 🌱 Exploring embedded systems + backend integrations  
 - 👨‍💻 Connect with me:  
   [LinkedIn](https://www.linkedin.com/in/malik-vance) | [Portfolio](https://github.com/SpaceDandy15) | [Twitter](#)  
